@@ -1,0 +1,14 @@
+main {
+  min-height: 100vh;
+}
+
+.item-card {
+  border: solid 2px white;
+  border-radius: 4px;
+}
+
+.ice-cream-img {
+  height: 60%;
+  width: 100%;
+  object-fit: cover;
+}
